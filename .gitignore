@@ -1,0 +1,7 @@
+/build
+/.vscode
+*.o
+/src/tools/build
+/src/bootsect
+/src/setup
+linux.img
